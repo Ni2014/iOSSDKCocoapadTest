@@ -1,0 +1,6 @@
+framework module FuncSDK {
+  umbrella header "FuncSDK.h"
+
+  export *
+  module * { export * }
+}
